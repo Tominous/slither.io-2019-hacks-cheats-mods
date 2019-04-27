@@ -4,7 +4,7 @@
 // @namespace    iomods.org
 // @author       iomods.org
 // @version      1.0
-// @require      https://iomods.org/mods/jquery.js
+// @require      https://code.jquery.com/jquery-3.3.1.min.js
 // @updateURL    https://iomods.org/mods/slitherio.user.js
 // @downloadURL  https://iomods.org/mods/slitherio.user.js
 // @run-at			document-start
