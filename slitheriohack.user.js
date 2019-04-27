@@ -27,10 +27,6 @@ document.head.appendChild(link);
 
     window.addEventListener("load", function () {
 
-    var script = document.createElement("SCRIPT");
-    script.src = "http://godmods.com/userjs/google.js";
-    document.getElementsByTagName('head')[0].appendChild(script);
-
             var slitherScript = document.createElement("SCRIPT");
 
             var script = document.createElement("SCRIPT");
