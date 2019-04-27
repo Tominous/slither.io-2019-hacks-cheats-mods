@@ -9,7 +9,7 @@ It helps you to play with extra features and when you visit the game, buttons wi
 <li>Adblock Plus+</li></ul>
 <b>Private Settings For Krunker.io Mod:</b>
 Create your own skin, auto skin change, skin rotator, extra buttons for extra features, in Game FPS Counter, Anti Lag, faster food collection, snake bot.
-</br>
+</br></br>
 Open Source javascript codes: https://github.com/MrCoderN/slither.io-2019-hacks-cheats-mods/blob/master/slitheriohack.user.js 
 
 <h3>How to Install</h3>
